@@ -1,1 +1,1 @@
-Write a script that changes the working directory to the previous one
+Create a script that copies all the HTML files
